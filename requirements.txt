@@ -1,0 +1,6 @@
+langchain
+torch
+transformers
+Flask
+bert-extractive-summarizer
+SentencePiece 
